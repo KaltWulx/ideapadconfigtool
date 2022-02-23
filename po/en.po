@@ -1,0 +1,122 @@
+# English translations for com.github.KaltWulx.ideapadconfigtool package.
+# Copyright (C) 2022 THE com.github.KaltWulx.ideapadconfigtool'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the com.github.KaltWulx.ideapadconfigtool package.
+# Automatically generated, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.KaltWulx.ideapadconfigtool\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-22 18:28-0600\n"
+"PO-Revision-Date: 2022-02-22 18:28-0600\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:27
+msgid "Battery Conservative Mode"
+msgstr "Battery Conservative Mode"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:28
+msgid "Active or inactive battery conservative mode"
+msgstr "Active or inactive battery conservative mode"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:32
+msgid "FN Lock"
+msgstr "FN Lock"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:33
+msgid "Active or inactive FN Lock"
+msgstr "Active or inactive FN Lock"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:37
+msgid "USB Charging Mode"
+msgstr "USB Charging Mode"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:38
+msgid "Active or inactive the USB charging mode"
+msgstr "Active or inactive the USB charging mode"
+
+#: src/view/UIMainIdeaPadConfigTool.vala:46
+msgid "Lenovo IdeaPad Config Tool"
+msgstr "Lenovo IdeaPad Config Tool"
+
+#: src/model/utils/Notification.vala:13
+msgid "A error has occurred!"
+msgstr "A error has occurred!"
+
+#: src/model/utils/Notification.vala:15
+msgid "IdeaPadConfigTool: Battery Mode"
+msgstr "IdeaPadConfigTool: Battery Mode"
+
+#: src/model/utils/Notification.vala:20
+msgid "Battery Mode is enable!"
+msgstr "Battery Mode is enable!"
+
+#: src/model/utils/Notification.vala:23
+msgid "Battery Mode is disable!"
+msgstr "Battery Mode is disable!"
+
+#: src/model/utils/Notification.vala:32
+msgid "IdeaPadConfigTool: USB Charging Mode"
+msgstr "IdeaPadConfigTool: USB Charging Mode"
+
+#: src/model/utils/Notification.vala:37
+msgid "USB Charging mode is enable!"
+msgstr "USB Charging mode is enable!"
+
+#: src/model/utils/Notification.vala:40
+msgid "USB Charging Mode is disable!"
+msgstr "USB Charging Mode is disable!"
+
+#: src/model/utils/Notification.vala:49
+msgid "IdeaPadConfigTool: FN Lock Mode"
+msgstr "IdeaPadConfigTool: FN Lock Mode"
+
+#: src/model/utils/Notification.vala:54
+msgid "FN Lock mode is enable!"
+msgstr "FN Lock mode is enable!"
+
+#: src/model/utils/Notification.vala:57
+msgid "FN Lock mode is disable!"
+msgstr "FN Lock mode is disable!"
+
+#: data/ideapadconfigtool.appdata.xml.in:6
+msgid "IdeaPad Config Tool"
+msgstr "IdeaPad Config Tool"
+
+#: data/ideapadconfigtool.appdata.xml.in:7
+msgid "A Catchy Tagline"
+msgstr "A Catchy Tagline"
+
+#: data/ideapadconfigtool.appdata.xml.in:9
+msgid ""
+"A quick summary of your app's main selling points and features. Just a "
+"couple sentences per paragraph is best."
+msgstr ""
+"A quick summary of your app's main selling points and features. Just a "
+"couple sentences per paragraph is best."
+
+#: data/ideapadconfigtool.desktop.in:3
+msgid "Hello Again"
+msgstr "Hello Again"
+
+#: data/ideapadconfigtool.desktop.in:4
+msgid "Hello World App"
+msgstr "Hello World App"
+
+#: data/ideapadconfigtool.desktop.in:5
+msgid "Proves that we can use Vala and Gtk"
+msgstr "Proves that we can use Vala and Gtk"
+
+#: data/ideapadconfigtool.desktop.in:8
+msgid "battery-good-charging"
+msgstr "battery-good-charging"
+
+#: data/ideapadconfigtool.desktop.in:11
+msgid "Hello;World;Example;"
+msgstr "Hello;World;Example;"

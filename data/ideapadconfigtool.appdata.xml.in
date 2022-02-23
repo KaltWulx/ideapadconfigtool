@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Kalt Wulx <ing.josemhf@gmail.com> -->
+<component type="desktop">
+  <id>com.github.KaltWulx.ideapadconfigtool</id>
+  <metadata_license>CC0</metadata_license>
+  <name>IdeaPad Config Tool</name>
+  <summary>Allow change some config about ideapad_laptop kernel module</summary>
+  <description>
+    <p>A easy method of change battery conservative mode, Fn Lock kerboard, and active o deactive usb charging.</p>
+  </description>
+  <custom>
+    <value key="x-appcenter-color-primary">#603461</value>
+    <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+    <value key="x-appcenter-suggested-price">5</value>
+  </custom>
+</component>

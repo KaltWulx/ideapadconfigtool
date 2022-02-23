@@ -1,0 +1,4 @@
+src/view/UIMainIdeaPadConfigTool.vala
+src/model/utils/Notification.vala
+data/ideapadconfigtool.appdata.xml.in
+data/ideapadconfigtool.desktop.in

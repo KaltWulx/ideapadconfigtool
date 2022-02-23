@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=IdeaPad Config Tool
+GenericName=IdeaPad Config Tool
+Comment=A easy method of change battery conservative mode, Fn Lock kerboard, and active o deactive usb charging for IdeaPad laptops.
+Categories=Utility;
+Exec=com.github.KaltWulx.ideapadconfigtool
+Icon=battery-good-charging
+Terminal=false
+Type=Application
+Keywords=Lenovo;IdeaPad;Config;Tool
+X-GNOME-UsesNotifications=true

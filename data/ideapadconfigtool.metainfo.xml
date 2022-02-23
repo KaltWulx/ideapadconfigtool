@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.KaltWulx.ideapadconfigtool</id>
+
+  <name>IdeaPad Config Tool</name>
+  <summary>Change some settings of module ideapad_lenovo</summary>
+
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+      A easy method of change battery conservative mode, Fn Lock kerboard, and active o deactive usb charging.
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.github.KaltWulx.ideapadconfigtool.desktop.in</launchable>
+</component>
