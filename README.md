@@ -11,3 +11,6 @@ Run:
 3.- ninja
 
 4.- ninja install
+
+
+Search in Applications menu: IdeadPad Config Tool.
