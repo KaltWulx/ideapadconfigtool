@@ -3,6 +3,7 @@ Allow to changes mode of battery, Fn Lock and USB charging in IdeaPad laptops wi
 
 How to build.
 Run:
+
 1.- meson build  --prefix=/usr
 
 2.- cd build
