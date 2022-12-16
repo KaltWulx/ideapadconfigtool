@@ -78,7 +78,7 @@ public class IdeaPadConfigTool.USBCharging : IdeaPadMode {
         Return true if file exists, false if not.
     */
     public  bool file_exists() {
-        File f = File.new_for_path(IdeaPadUtils.CONSERVATIVE_MODE_FILE);
+        File f = File.new_for_path(IdeaPadUtils.USB_CHARGING_MODE_FILE);
         return f.query_exists();
     }
 

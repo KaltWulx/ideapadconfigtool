@@ -1,7 +1,7 @@
 public class IdeaPadConfigTool.IdeaPadUtils {
-    public const string CONSERVATIVE_MODE_FILE = "";
-    public const string USB_CHARGING_MODE_FILE = "";
-    public const string FN_LOCK_MODE_FILE = "";
+    public const string CONSERVATIVE_MODE_FILE = "/sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/conservation_mode";
+    public const string USB_CHARGING_MODE_FILE = "/sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/usb_charging";
+    public const string FN_LOCK_MODE_FILE = "/sys/bus/platform/drivers/ideapad_acpi/VPC2004:00/fn_lock";
 
     public enum STATUS { DISABLE, ENABLE, UNKNOW }
 
